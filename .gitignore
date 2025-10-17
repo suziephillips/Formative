@@ -1,0 +1,16 @@
+# ----------------------
+# Project directories
+# ----------------------
+
+# Ignore all data files
+data/
+
+# Ignore all solution files
+solutions/
+
+# Ignore RStudio project files
+.Rproj.user/
+
+# Ignore R history and workspace
+.Rhistory
+.RData

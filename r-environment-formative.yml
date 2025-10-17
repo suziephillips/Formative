@@ -1,0 +1,8 @@
+name: r-env-form
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - r-base=4.4.1
+  - r-tidyverse=2.0.0
+prefix: /home/suziephillips/miniconda3/envs/r-env-form
