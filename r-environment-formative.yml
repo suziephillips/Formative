@@ -1,8 +1,13 @@
 name: r-env-form
 channels:
   - conda-forge
+  - bioconda
   - defaults
 dependencies:
+  - python
+  - bioconda::snakemake
   - r-base=4.4.1
   - r-tidyverse=2.0.0
+  - r-janitor=2.2.1
+  - r-haven=2.5.5
 prefix: /home/suziephillips/miniconda3/envs/r-env-form
