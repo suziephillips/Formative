@@ -14,3 +14,8 @@ solutions/
 # Ignore R history and workspace
 .Rhistory
 .RData
+
+# Ignore Windows Zone.Identifier files
+*.Zone.Identifier
+
+.snakemake/
